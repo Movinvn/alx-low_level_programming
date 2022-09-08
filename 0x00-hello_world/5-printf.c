@@ -2,8 +2,8 @@
 
 
 
-/*
- *  * main - prints the phrase with proper grammar,
+/**
+ *   main - main prints the phrase with proper grammar,
  *
  *   * but the outcome is a piece of art,
  *
